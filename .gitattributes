@@ -1,0 +1,3 @@
+# Update mirror: every file must be served byte-for-byte identical to what
+# VersionWriter hashed. Disable ALL end-of-line conversion.
+* -text
