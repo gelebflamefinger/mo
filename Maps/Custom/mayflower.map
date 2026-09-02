@@ -1287,7 +1287,7 @@ PlayerControl=no
 
 [Basic]
 Name=(8) Mayflower
-Author=Burg
+Author=bishibosh
 Percent=0
 GameMode=Standard,Islands
 HomeCell=98
