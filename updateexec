@@ -1,0 +1,3 @@
+; updateexec - CnCNet updater hook. Runs on the client AFTER downloading files.
+; [Delete] key=path  |  [Rename] old=new  |  [RenameFolder] old=new  |  [RenameAndMerge] old=new
+; Empty = no file operations. Add sections here when you remove or move published files.
